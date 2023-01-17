@@ -1,4 +1,4 @@
-# ⭐Data_augmentation
+# Data Augmentation
 
 <img width="480" src="./img/logo.png"/>
 
