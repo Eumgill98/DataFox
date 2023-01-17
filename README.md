@@ -1,6 +1,6 @@
 # ⭐Data_augmentation
 
-<img width="640" src="./img/logo.png"/>
+<img width="480" src="./img/logo.png"/>
 
 
 - Data_augmentation
