@@ -1,4 +1,4 @@
-# FoxData
+# DataFox
 
 <img width="480" src="./img/logo.png"/>
 
